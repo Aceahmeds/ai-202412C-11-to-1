@@ -1,0 +1,14 @@
+tag
+<>
+types of tag
+ 1). open tag<></> closing tag
+ 2). self closing tag. </br>
+
+Html elements (p,h1) vs content
+  
+
+<p>Muhammad Ahmed Khan</p>
+
+file.html
+class1.html
+ 

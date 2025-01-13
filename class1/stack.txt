@@ -1,0 +1,20 @@
+Fronted-Devlopment
+web designing 
+html  structure
+ css  styling
+ javascript  attarctive or fun
+bootstrap  ->css  Framework
+jquery   ->javascript  library
+git/github
+
+Backend-Devlopment
+xml and json
+Advanced javascript
+Mysql
+Php 
+laravel
+e-project
+
+
+
+
